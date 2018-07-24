@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<candy>
+    <name>Test</name>
+    <type>chocolate</type>
+    <energy>123.1</energy>
+    <ingredients>
+        <sugar>23.4</sugar>
+        <chocolate>milk</chocolate>
+        <ingredient>cacao</ingredient>
+    </ingredients>
+    <value>
+        <protein>16.0</protein>
+        <fat>32.2</fat>
+        <carbohydrates>12.2</carbohydrates>
+    </value>
+    <production>Test</production>
+</candy>
